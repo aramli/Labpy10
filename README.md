@@ -17,12 +17,12 @@ KELAS   : TI.25 C.5
   <img src="https://github.com/aramli/labpy10/raw/main/img/6.png" width="750"/><br>
   
   <li>Penjelasan Kode</li>
-  <img src="https://github.com/aramli/labpy010/raw/main/img/7.png" width="850"/><br>
+  <img src="https://github.com/aramli/labpy10/raw/main/img/7.png" width="850"/><br>
   1. Pertama-tama, Kode berfungsi mendefinisikan class Employee yang berfungsi sebagai wadah data karyawan. Fungsi __init__ digunakan sebagai constructor, yaitu fungsi yang otomatis dijalankan ketika objek baru dibuat. Parameter yang diterima adalah NIK, nama, gaji bulanan, THR, bonus, dan PTKP. Semua data tersebut disimpan ke dalam atribut objek menggunakan kata kunci self. Dengan cara ini, setiap objek karyawan akan memiliki data lengkap yang bisa diproses lebih lanjut.
 
 <br><br>
 
- <img src="https://github.com/aramli/labpy010/raw/main/img/8.png" width="850"/><br>
+ <img src="https://github.com/aramli/labpy10/raw/main/img/8.png" width="850"/><br>
   2. Selanjutnya, Class TaxCalculator berfungsi untuk melakukan perhitungan pajak. Objek karyawan yang dibuat dari class Employee akan diterima sebagai parameter emp, lalu disimpan ke dalam atribut self.emp. Dengan begitu, semua data karyawan bisa digunakan dalam perhitungan.
 <br><br>
 
