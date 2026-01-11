@@ -1,5 +1,5 @@
 # Praktikum 10
-Tugas Project Ujian Akhir Semester Pemrograman Dasar Pertemuan Ke 16 Project <br>
+Tugas Project Ujian Akhir Semester Pemrograman Dasar Pertemuan Ke 16 <br>
 
 NAMA    : Andi Ramli Hidayat <br>
 NIM     : 312510385 <br>
